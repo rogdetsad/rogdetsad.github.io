@@ -1,1 +1,0 @@
-# rogdetsad.github.io
