@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rogdetsad.github.io" resolutions="1x" timestamp="1535225720953">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rogdetsad.github.io" resolutions="1x" timestamp="1535888168826">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3788294302" ref="index"/>
+    <file name="index.css" crc="243771433" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,116 +17,116 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u354-4.png" crc="4018277989" ref="index"/>
-    <file name="p1060699-crop-u713.jpg" crc="3943136184" seo="true" ref="index">
+    <file name="u354-4.png" crc="3818286892" ref="index"/>
+    <file name="p1060699-crop-u713.jpg" crc="3993048159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="p1060701-crop-u884.jpg" crc="4057966131" seo="true" ref="index">
+    <file name="p1060701-crop-u884.jpg" crc="4016715628" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060705-crop-u904.jpg" crc="4290306003" seo="true" ref="index">
+    <file name="p1060705-crop-u904.jpg" crc="317732785" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060707-crop-u924.jpg" crc="4257508194" seo="true" ref="index">
+    <file name="p1060707-crop-u924.jpg" crc="4124658050" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060708-crop-u944.jpg" crc="4139160189" seo="true" ref="index">
+    <file name="p1060708-crop-u944.jpg" crc="346147756" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060718-crop-u964.jpg" crc="151791353" seo="true" ref="index">
+    <file name="p1060718-crop-u964.jpg" crc="188240641" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060723-crop-u984.jpg" crc="440862478" seo="true" ref="index">
+    <file name="p1060723-crop-u984.jpg" crc="520122448" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060735-crop-u1004.jpg" crc="4168678804" seo="true" ref="index">
+    <file name="p1060735-crop-u1004.jpg" crc="4213354193" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060739-crop-u1024.jpg" crc="4077274516" seo="true" ref="index">
+    <file name="p1060739-crop-u1024.jpg" crc="372738821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060741-crop-u1044.jpg" crc="3850844357" seo="true" ref="index">
+    <file name="p1060741-crop-u1044.jpg" crc="4283602087" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060759-crop-u1064.jpg" crc="129850609" seo="true" ref="index">
+    <file name="p1060759-crop-u1064.jpg" crc="397389047" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060761-crop-u1084.jpg" crc="4086601319" seo="true" ref="index">
+    <file name="p1060761-crop-u1084.jpg" crc="3935402163" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060764-crop-u1104.jpg" crc="3814065858" seo="true" ref="index">
+    <file name="p1060764-crop-u1104.jpg" crc="4119150689" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u701-4.png" crc="281796998" ref="index"/>
-    <file name="u709-4.png" crc="4232791574" ref="index"/>
+    <file name="u701-4.png" crc="252188170" ref="index"/>
+    <file name="u709-4.png" crc="142482171" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="p1060517.jpg" crc="483149511" seo="true" ref="index">
+    <file name="p1060517.jpg" crc="3918120691" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060528.jpg" crc="3775321882" seo="true" ref="index">
+    <file name="p1060528.jpg" crc="3951040480" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060534.jpg" crc="80800422" seo="true" ref="index">
+    <file name="p1060534.jpg" crc="3893714306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060540.jpg" crc="66096742" seo="true" ref="index">
+    <file name="p1060540.jpg" crc="118266505" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060547.jpg" crc="155501107" seo="true" ref="index">
+    <file name="p1060547.jpg" crc="3992425952" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060554.jpg" crc="235764946" seo="true" ref="index">
+    <file name="p1060554.jpg" crc="3764281693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060556.jpg" crc="203531065" seo="true" ref="index">
+    <file name="p1060556.jpg" crc="292404560" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060560.jpg" crc="3763001576" seo="true" ref="index">
+    <file name="p1060560.jpg" crc="4284485176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060575.jpg" crc="4184714539" seo="true" ref="index">
+    <file name="p1060575.jpg" crc="280783712" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060593.jpg" crc="89917450" seo="true" ref="index">
+    <file name="p1060593.jpg" crc="194829641" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060595.jpg" crc="518134244" seo="true" ref="index">
+    <file name="p1060595.jpg" crc="3951526504" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060597.jpg" crc="3799293683" seo="true" ref="index">
+    <file name="p1060597.jpg" crc="4138617002" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060604.jpg" crc="4088902553" seo="true" ref="index">
+    <file name="p1060604.jpg" crc="249732315" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060619.jpg" crc="256736584" seo="true" ref="index">
+    <file name="p1060619.jpg" crc="4206195054" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060626-crop-u1770.jpg" crc="524089559" seo="true" ref="index">
+    <file name="p1060626-crop-u1770.jpg" crc="347575273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060376.jpg" crc="331329888" seo="true" ref="index">
+    <file name="p1060376.jpg" crc="186823350" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060378.jpg" crc="56170308" seo="true" ref="index">
+    <file name="p1060378.jpg" crc="3795907539" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060389.jpg" crc="335688355" seo="true" ref="index">
+    <file name="p1060389.jpg" crc="422252194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060397.jpg" crc="477017885" seo="true" ref="index">
+    <file name="p1060397.jpg" crc="75028702" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060401.jpg" crc="4274268016" seo="true" ref="index">
+    <file name="p1060401.jpg" crc="144526310" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1060413.jpg" crc="3870016746" seo="true" ref="index">
+    <file name="p1060413.jpg" crc="395320851" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-crop-u2779.png" crc="169015682" seo="true" ref="index">
+    <file name="logo-crop-u2779.png" crc="4168894647" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4291072246" seo="true" mt="1535225706301" redirect="true"/>
+  <file name="index.html" crc="4095769853" seo="true" mt="1535888084360" redirect="true"/>
 </manifest>
